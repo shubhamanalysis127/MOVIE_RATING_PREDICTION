@@ -1,4 +1,4 @@
-# Movie Rating Prediction Project (TASK-2) 
+# Movie Rating Prediction Project (TASK-3) 
 
 This project aims to predict movie ratings using machine learning techniques based on features like year, duration, and number of votes.
 
